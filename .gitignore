@@ -161,6 +161,10 @@ env/
 *.tar.gz
 *.gz
 
+# Track official PCB design/export packages
+!pcb/
+!pcb/*.zip
+
 *_backup/
 *backup*/
 *_bak/
